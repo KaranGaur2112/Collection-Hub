@@ -9,6 +9,7 @@ export default function Navbar() {
         <li><a href="/">CALCULATE YOUR SHARES</a></li>
         <li><a href="/">WORK WITH US</a></li>
         <li><a href="/contact">NEED HELP</a></li>
+        <li><a href="/contact">LUND LELE MERA</a></li>
     </ul>
 </nav>
     )
